@@ -1,0 +1,49 @@
+*
+{
+  margin: 0;  
+  padding: 0;
+}
+body
+{
+background-image: url(../New-Project/images/bckimg.png);
+background-size: cover;
+}
+
+.date
+{
+  margin-left: 630px;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+}
+.navigation
+{
+  margin-top: 30px;
+}
+.navigation a
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  padding: 10px;
+  color: black;
+  margin: 70px;
+  text-decoration: none;
+  
+
+  border-right: 1px solid black;
+  
+}
+  #title
+  {
+    font-family: cursive;
+    font-size: larger;
+  }
+
+  #hello
+  {
+  border: 2px dashed black;
+  padding: 35px;
+    width: 95%;
+    text-align: center;
+    font-family:sans-serif;
+    word-spacing: 2px;
+  }
