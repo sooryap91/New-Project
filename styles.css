@@ -9,12 +9,12 @@ background-image: url(../New-Project/images/bckimg.png);
 background-size: cover;
 }
 
-.date
+/* .date
 {
   margin-left: 630px;
   font-size: medium;
   font-family: 'Times New Roman', Times, serif;
-}
+} */
 .navigation
 {
   margin-top: 30px;
@@ -25,7 +25,7 @@ background-size: cover;
   
   padding: 10px;
   color: black;
-  margin: 70px;
+  margin: 60px;
   text-decoration: none;
   
 
@@ -34,8 +34,9 @@ background-size: cover;
 }
   #title
   {
-    font-family: cursive;
-    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    
   }
 
   #hello
@@ -47,3 +48,33 @@ background-size: cover;
     font-family:sans-serif;
     word-spacing: 2px;
   }
+#first_heading
+{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+text-decoration-line: underline;
+}
+#About_Me
+{
+font-family: cursive;
+word-spacing: 5px;
+text-align: justify;
+padding: 2px;
+}
+#second_heading
+{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+text-decoration-line: underline;
+
+}
+#My_Skills
+{
+  font-family: cursive;
+  word-spacing: 5px;
+  text-align: justify;
+  margin-left: 35px;
+list-style-type: decimal-leading-zero;
+}
