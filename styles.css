@@ -61,7 +61,10 @@ font-family: cursive;
 word-spacing: 5px;
 text-align: justify;
 padding: 2px;
+display:inline;
 }
+
+
 #second_heading
 {
   color: red;
