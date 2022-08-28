@@ -151,9 +151,13 @@ text-decoration-line: underline;
 /* footer starts */
 .footer
 {
-  margin-left: 250px;
-padding: 5px;
-word-spacing: 200px;
+  /* margin-left: 20px;
+  margin-right: 20px; */
+/* padding: 5px; */
+margin: 300px;
+word-spacing: 20px;
+display: inline;
+
 
 
 }
@@ -166,12 +170,14 @@ word-spacing: 200px;
   display: flex;
   align-items: center;
   margin-left: 15px;
+  display: inline;
 }
 .twitter
 {
   display: flex;
   align-items: center;
   margin-left: 15px;
+  display: inline;
 
 }
 .instagram
@@ -179,6 +185,7 @@ word-spacing: 200px;
   display: flex;
   align-items: center;
   margin-left: 15px;
+  display: inline;
 
 }
 .google
@@ -186,6 +193,7 @@ word-spacing: 200px;
   display: flex;
   align-items: center;
   margin-left: 15px;
+  display: inline;
 
 }
 .facebook
@@ -193,6 +201,7 @@ word-spacing: 200px;
   display: flex;
   align-items: center;
   margin-left: 15px;
+  display: inline;
 
 }
 
