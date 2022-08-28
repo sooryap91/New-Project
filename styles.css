@@ -9,6 +9,7 @@ body
 background-image: url(../New-Project/images/bckimg.png);
 background-size: cover;
 }
+/* header starts */
 header
 {
   background-color: red;
@@ -56,6 +57,8 @@ header
     font-family:sans-serif;
     word-spacing: 2px;
   }
+  /* header ends */
+  /* Aside starts */
 #first_heading
 {
   color: red;
@@ -144,6 +147,8 @@ text-decoration-line: underline;
 {
   margin-left: 200px;
 }
+/* aside ends */
+/* footer starts */
 .footer
 {
   margin-left: 250px;
@@ -201,5 +206,6 @@ display: inline;
   margin-bottom: 150px;
 
 }
+/* footer ends */
 
 
