@@ -3,10 +3,18 @@
   margin: 0;  
   padding: 0;
 }
+
 body
 {
 background-image: url(../New-Project/images/bckimg.png);
 background-size: cover;
+}
+header
+{
+  background-color: red;
+  height: 2em;
+  margin-top:0cm;
+
 }
 
 /* .date
@@ -28,8 +36,8 @@ background-size: cover;
   margin: 60px;
   text-decoration: none;
   
+  
 
-  border-right: 1px solid black;
   
 }
   #title
@@ -80,4 +88,29 @@ text-decoration-line: underline;
   text-align: justify;
   margin-left: 35px;
 list-style-type: decimal-leading-zero;
+}
+#third_heading
+{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+text-decoration-line: underline;
+
+}
+#Education
+{
+  font-family: cursive;
+  word-spacing: 5px;
+  text-align: justify;
+  margin-left: 35px;
+list-style-type: decimal-leading-zero;
+}
+#inside_college
+{
+  margin-left: 45px;
+}
+#inside_school
+{
+  margin-left: 45px;
+
 }
