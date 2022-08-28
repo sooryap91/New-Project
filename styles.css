@@ -114,3 +114,28 @@ list-style-type: decimal-leading-zero;
   margin-left: 45px;
 
 }
+#fourth_heading
+{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+text-decoration-line: underline;
+
+}
+.Contact
+{
+  margin-left: 500px;
+  text-align: justify;
+  padding: 30px;
+  margin-right: 20px;
+  word-spacing: 10px;
+}
+#Message
+{
+  width:50%;
+  height: 5em;
+}
+#Number
+{
+  margin-right: 529.59px;
+}
