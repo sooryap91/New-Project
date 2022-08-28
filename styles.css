@@ -145,11 +145,40 @@ text-decoration-line: underline;
 }
 .footer
 {
-  margin: 25px;
-padding: 25px;
-word-spacing:200px;
+  margin: 10px;
+padding: 10px;
+word-spacing: 200px;
 }
 #copyright
 {
   margin-left: 450px;
 }
+.linkedin
+{
+  display: flex;
+  align-items: center;
+}
+.twitter
+{
+  display: flex;
+  align-items: center;
+}
+.instagram
+{
+  display: flex;
+  align-items: center;
+}
+.google
+{
+  display: flex;
+  align-items: center;
+}
+.facebook
+{
+  display: flex;
+  align-items: center;
+}
+
+
+
+
